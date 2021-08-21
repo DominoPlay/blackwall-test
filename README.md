@@ -1,17 +1,25 @@
 # blackwall-test
 
-Stack: HTML, SCSS + Gulp
+Blackwall's test task completed by DominoPlay
 
-Google Lighthouse audit
+Preview: https://blackwall-test.netlify.app
 
-Desktop results:
-• Perfomance - 100
-• Accessibility - 100
-• Best Practices - 100
-• SEO - 100
+Stack:
+- HTML
+- Bootstrap 5
+- SCSS
+- Gulp
 
-Mobile results:
-• Perfomance - 95+
-• Accessibility - 100
-• Best Practices - 100
-• SEO - 100
+Google Lighthouse results:
+
+Desktop:
+- Perfomance - 100
+- Accessibility - 100
+- Best Practises - 100
+- SEO - 100
+
+Mobile:
+- Perfomance - 95+
+- Accessibility - 100
+- Best Practises - 100
+- SEO - 100
